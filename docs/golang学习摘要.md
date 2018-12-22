@@ -3,7 +3,7 @@ golang学习摘要
 ### 1.Go安装包下载地址
 https://golang.google.cn/dl/
 ### 2.liteIDE下载地址
-https://www.golangtc.com/download/liteide
+https://github.com/visualfc/liteide/releases/tag/x35.2
 ### 3.liteIDE智能补全插件安装教程
 https://my.oschina.net/u/3626804/blog/2872799
 ### 4.windows下使用devel调试golang程序
