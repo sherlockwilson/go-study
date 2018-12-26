@@ -12,3 +12,5 @@ http://www.cppblog.com/sunicdavy/archive/2016/09/03/214254.html
 https://blog.csdn.net/zdy0_2004/article/details/79124269
 ### 6.GO自动化测试框架、性能分析工具、程序性能优化、程序文档生成
 http://blog.51cto.com/9291927/2132029
+### 7.GO面向对象编程
+https://blog.csdn.net/li_101357/article/details/80205005
