@@ -14,3 +14,5 @@ https://blog.csdn.net/zdy0_2004/article/details/79124269
 http://blog.51cto.com/9291927/2132029
 ### 7.GO面向对象编程
 https://blog.csdn.net/li_101357/article/details/80205005
+### 8.GO的select使用
+https://blog.csdn.net/zhaominpro/article/details/77570290?utm_source=debugrun&utm_medium=referral
